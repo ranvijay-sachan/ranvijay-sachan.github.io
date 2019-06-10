@@ -10,7 +10,7 @@ const hello = props => {
         Hi<span className="blink">_</span>
       </p>
       <p className="hello__para">
-        A Software Engineer, enthusiast in programming and learning new skills and
+        I am a Software Engineer, enthusiast in programming and learning new skills and
         technologies. Worked on developing applications from scratch and have the
         experience of building a product end to end.
         Having a proficient experience in building application in Python.
